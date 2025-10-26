@@ -1,12 +1,11 @@
 ---
-title: Encrypted Post
+title: 加密文章
 published: 2024-01-15
 description: This is an article for testing the page encryption feature
 encrypted: true
 pinned: true
 password: "123456"
-tags: ["Test", "Encryption"]
-category: "Technology"
+tags: ["blog"]
 ---
 
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
