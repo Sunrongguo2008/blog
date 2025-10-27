@@ -81,14 +81,20 @@ export const siteConfig: SiteConfig = {
         "/assets/desktop-banner/8.avif",
       ], // 桌面横幅图片
       mobile: [
-        "/assets/desktop-banner/1.avif",
-        "/assets/desktop-banner/2.avif",
-        "/assets/desktop-banner/3.avif",
-        "/assets/desktop-banner/4.avif",
-        "/assets/desktop-banner/5.avif",
-        "/assets/desktop-banner/6.avif",
-        "/assets/desktop-banner/7.avif",
-        "/assets/desktop-banner/8.avif",
+        "/assets/mobile-banner/1.avif",
+        "/assets/mobile-banner/2.avif",
+        "/assets/mobile-banner/3.avif",
+        "/assets/mobile-banner/4.avif",
+        "/assets/mobile-banner/5.avif",
+        "/assets/mobile-banner/6.avif",
+        "/assets/mobile-banner/7.avif",
+        "/assets/mobile-banner/8.avif",
+        "/assets/mobile-banner/9.avif",
+        "/assets/mobile-banner/10.avif",
+        "/assets/mobile-banner/11.avif",
+        "/assets/mobile-banner/12.avif",
+        "/assets/mobile-banner/13.avif",
+        "/assets/mobile-banner/14.avif",
         /*
         "/assets/mobile-banner/m1.webp",
         "/assets/mobile-banner/m2.webp",
@@ -155,7 +161,7 @@ export const siteConfig: SiteConfig = {
   },
   toc: {
     enable: false, // 启用目录功能
-    depth: 6, // 目录深度，1-6，1 表示只显示 h1 标题，2 表示显示 h1 和 h2 标题，依此类推
+    depth: 3, // 目录深度，1-6，1 表示只显示 h1 标题，2 表示显示 h1 和 h2 标题，依此类推
   },
   generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
   favicon: [
@@ -256,6 +262,7 @@ export const navBarConfig: NavBarConfig = {
       icon: "material-symbols:info",
       children: [LinkPreset.About, LinkPreset.Friends],
     },
+    /*
     {
       name: "Others",
       url: "#",
@@ -278,6 +285,7 @@ export const navBarConfig: NavBarConfig = {
         },
       ],
     },
+    */
   ],
 };
 
@@ -335,19 +343,19 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 };
 
 export const commentConfig: CommentConfig = {
-  enable: false, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
+  enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
   twikoo: {
-    envId: "https://twikoo.vercel.app",
-    lang: "en", // 设置 Twikoo 评论系统语言为英文
+    envId: "https://comments.sun-ong.top/",
+    lang: "zh", // 设置 Twikoo 评论系统语言为英文
   },
 };
 
 export const announcementConfig: AnnouncementConfig = {
-  title: "Announcement", // 公告标题
-  content: "Welcome to my blog! This is a sample announcement.", // 公告内容
+  title: "公告", // 公告标题
+  content: "右上角可以切换深色🌕/浅色模式☀️", // 公告内容
   closable: true, // 允许用户关闭公告
   link: {
-    enable: true, // 启用链接
+    enable: false, // 启用链接
     text: "Learn More", // 链接文本
     url: "/about/", // 链接 URL
     external: false, // 内部链接
@@ -551,10 +559,10 @@ export const widgetConfigs = {
 } as const;
 
 export const umamiConfig = {
-  enabled: false, // 是否显示Umami统计
-  apiKey: import.meta.env.UMAMI_API_KEY || "api_xxxxxxxx", // API密钥优先从环境变量读取，否则使用配置文件中的值
-  baseUrl: "https://api.umami.is", // Umami Cloud API地址
+  enabled: false,
+  apiKey: "api_SOyE36m6FhgVPO77Ei5MTfTc1ijFjf0z",
+  baseUrl: "https://api.umami.is",
   scripts: `
-<script defer src="XXXX.XXX" data-website-id="ABCD1234"></script>
-  `.trim(), // 上面填你要插入的Script,不用再去Layout中插入
+<script defer src="https://cloud.umami.is/script.js" data-website-id="6352aca7-2906-4944-b2e6-5a81531101f4"></script>
+`.trim(),
 } as const;
