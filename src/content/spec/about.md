@@ -1,49 +1,57 @@
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+# 😄 嗨，我是 sunong
 
-::github{repo="matsuzaka-yuki/Mizuki"}
-
-## 🌟 Theme Features
-
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
-
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
-
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+写代码，也写生活里的小事 🖥️✨  
+这里记录我折腾各种技术的点滴，偶尔也会冒出一点生活杂谈。  
+写给别人，也写给未来的自己——就这样挺好。  
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+## 1 🗃️ 身份信息 | ID Card
+
+| 🍒 名字   | sunong        |
+| ------- | ------------- |
+| 🎂 生日   | 2008/04/07    |
+| ♂️ 性别   | 男             |
+| 🐭 生肖   | 鼠             |
+| ♈ 星座    | 白羊座           |
+| 🏫 学校   | 山东省新泰市第一中学，高三 |
+| 🏙️ 居住地 | 山东省泰安市        |
+| 💡 网名由来 | 名字拼音(我妹帮忙取的😜)  |
+
+---
+
+## 2 🔧 技术 | Tech 
+
+* 💻 喜欢捣鼓电脑
+* 😄 NixOS真好玩
+* 以前用 Hugo + Blowfish 搭博客，后来看到 Astro + Mizuki，顺眼就搬过来了。
+* 顺手整理了旧内容，技术在变，但记录的习惯没变 ✨
+
+---
+
+## 3 🎮 游戏 | Gaming
+
+| 游戏           | 喜爱理由            |
+| ------------ | --------------- |
+| Blue Archive | 音乐好听，剧情优秀，有启迪🧠 |
+| 音游           | 锻炼手速和节奏感 🎶     |
+
+---
+
+## 4 🎵 音乐 | Music
+
+* 目前爱听 **Blue Archive音乐**
+* 很治愈，给人清净空白的感觉
+
+
+---
+
+## 5 📮 联系方式 | Contact
+
+* 博客评论：内置 Twikoo 📝
+* GitHub： [Sunrongguo2008](https://github.com/Sunrongguo2008)
+
+> 写下这些，既是给未来的自己，也是给路过的你 😎
+
+

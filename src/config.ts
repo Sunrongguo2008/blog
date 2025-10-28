@@ -247,8 +247,8 @@ export const navBarConfig: NavBarConfig = {
       url: "/content/",
       icon: "material-symbols:person",
       children: [
-        LinkPreset.Anime,
-        LinkPreset.Diary,
+        //LinkPreset.Anime, 番剧
+        //LinkPreset.Diary, 日记
         {
           name: "画廊",
           url: "/albums/",
