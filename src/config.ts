@@ -79,6 +79,10 @@ export const siteConfig: SiteConfig = {
         "/assets/desktop-banner/6.avif",
         "/assets/desktop-banner/7.avif",
         "/assets/desktop-banner/8.avif",
+        "/assets/desktop-banner/9.avif",
+        "/assets/desktop-banner/10.avif",
+        "/assets/desktop-banner/11.avif",
+
       ], // 桌面横幅图片
       mobile: [
         "/assets/mobile-banner/1.avif",

@@ -12,7 +12,7 @@ draft: false
 
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
 
-## Front-matter of Posts
+## 1 Front-matter of Posts
 
 ```yaml
 ---
@@ -43,7 +43,7 @@ draft: false
 | `sourceLink`  | The source link or reference for the post content.                                                                                                                                                          |
 | `draft`       | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
 
-## Where to Place the Post Files
+## 2 Where to Place the Post Files
 
 
 
