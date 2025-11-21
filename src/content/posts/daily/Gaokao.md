@@ -48,3 +48,25 @@ Anki的生物还是没去背。。
 做了做小本，空间向量还行  
 晚二光玩了，写了个关于二哥的诗，有点后悔  
 为什么中午光玩儿了晚上还光分心啊啊啊啊😧  
+
+## 2025/11/19 - 198天
+![image.png](http://sunong-image.test.upcdn.net/picgo/20251122000426412.png)
+（截图时已经第二天了）
+
+上午：
+
+不该刷B站的😡  
+午休起来了以后momo背了20个
+
+下午：
+
+10:30开始干活  
+momo完成  
+![image.png](http://sunong-image.test.upcdn.net/picgo/20251122000729037.png)
+这玩意不好做啊
+![image.png](http://sunong-image.test.upcdn.net/picgo/20251122000644654.png)
+
+总结：
+
+还是要少玩。。。
+## 2025/11/20 - 197天
