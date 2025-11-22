@@ -7,7 +7,7 @@ tags:
 title: 高考倒计时200
 pinned: true
 ---
-## 起因
+1## 起因
 我的学习自制力很差，经常说着一套但是做不到。  
 今天开始记录我的学习，希望能通过这个行为，约束自己。
 ## 2025/11/19 - 200天
@@ -70,3 +70,7 @@ momo完成
 
 还是要少玩。。。
 ## 2025/11/20 - 197天
+![image.png](http://sunong-image.test.upcdn.net/picgo/20251122233040047.png)
+捣鼓nixos从上午到11:30。。。
+![image.png](http://sunong-image.test.upcdn.net/picgo/20251123001448859.png)
+应该努力了。。。
